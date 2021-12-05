@@ -1,0 +1,33 @@
+Encoder:
+1 - source type
+7 - source id
+1 - sink type
+7 - sink id
+16 - weight
+
+Input:
+age
+random input
+blockage left-right
+oscillator
+blackage forward
+population density
+population long-range forward
+last movement y
+last movement x
+blockage long-range forward
+north/south border distance
+east/west/boarder distance
+east/west world location
+nearest boarder distance
+north/south world location
+
+Output:
+set long-probe distance
+set oscillator period
+move forward
+move random
+move reverse
+move left/right (+/-)
+move east/west (+/-)
+move north/south(+/-)
